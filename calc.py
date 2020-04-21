@@ -11,4 +11,4 @@ def multiply(a, b):
     return a * b
 
 def exponent(a, b):
-    pass
+    return 
